@@ -1,1 +1,1 @@
-TOKYO-OLYMPICS-data-engineering
+TOKYO-OLYMPICS-data-engineering-project-azure
